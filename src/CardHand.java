@@ -1,3 +1,6 @@
+/* Auth: Nasreen
+Student _id : 991567814
+*/
 public class CardHand {
 
         private int handSize = 52;
